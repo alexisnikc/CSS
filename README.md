@@ -1,6 +1,5 @@
 # CSS
-Introducción a CSS
-
+<h1>2.1. Selectores básicos (Introducción a CSS)</h1>
 <h3 id="selector-universal">2.1.1. Selector universal</h3>
 <p>Se utiliza para seleccionar todos los elementos de la página. El siguiente ejemplo elimina el margen y el relleno de todos los elementos HTML (por ahora no es importante fijarse en la parte de la declaración de la regla CSS):</p>
 <div class="code css"><pre class="css">* {
